@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-wx-component",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "一些常用组件",
   "main": "index.js",
   "scripts": {
