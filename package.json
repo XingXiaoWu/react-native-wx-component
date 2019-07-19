@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-wx-component",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一些常用组件",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,8 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.41.2",
+    "react-native-linear-gradient":"^2.5.4",
+    "moment":"^2.24.0"
   }
 }
